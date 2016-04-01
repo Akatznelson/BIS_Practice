@@ -1,0 +1,3 @@
+This is a practice text file to put in our shared Git repository.
+
+This weekend, I will probably do homework and enjoy the sun.
